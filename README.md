@@ -1,5 +1,13 @@
 Assignment: Frontend Web Development Project
 
+# How to run the project
+
+1. Install all the dependencies using
+ "**npm install**"
+
+2. Run in development mode using
+   "**npm run dev**"
+
 # Home Page
 ![Home page](./home.png)
 
