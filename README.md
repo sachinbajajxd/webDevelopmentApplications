@@ -1,5 +1,11 @@
 Assignment: Frontend Web Development Project
 
+# Home Page
+![Home page](./home.png)
+
+# Shape
+![Shape](./fig.png)
+
 # Thought Process
 In this project, I created a web application that allows users to draw shapes on a canvas using Three.js and save those shapes in local storage. Here's a brief overview of the thought process:
 
