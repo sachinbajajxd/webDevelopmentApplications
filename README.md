@@ -3,16 +3,16 @@ Assignment: Frontend Web Development Project
 # Thought Process
 In this project, I created a web application that allows users to draw shapes on a canvas using Three.js and save those shapes in local storage. Here's a brief overview of the thought process:
 
-# Canvas Creation: 
+Canvas Creation: 
 I started by creating an Canvas component canvas element that serves as the drawing area.
 
-# Three.js Integration: 
+Three.js Integration: 
 To render 3D shapes, I integrated Three.js into the project. I created functions to add different shapes like cubes, cuboids, cones, etc to the canvas.
 
-# Local Storage: 
+Local Storage: 
 I implemented a mechanism to store the shapes created by the user in the browser's local storage.
 
-# Styling with Tailwind CSS: 
+Styling with Tailwind CSS: 
 I used Tailwind CSS to style the application, making it user-friendly and responsive.
 
 # Difficulties Faced
